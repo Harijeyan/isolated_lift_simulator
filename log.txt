@@ -1,0 +1,78 @@
+1589286510.445194 	 {'floor': 1, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+1589286510.445434 	 {'floor': 2, 'eta': 9, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+127.0.0.1 - - [12/May/2020 17:58:30] "GET /smartkent/liftsimulation/?fromFloor=5&toFloor=9 HTTP/1.1" 200 -
+1589286513.447194 	 {'floor': 3, 'eta': 6, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286516.450078 	 {'floor': 4, 'eta': 3, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286519.455262 	 {'floor': 5, 'eta': 0, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286522.46046 	 {'floor': 5, 'eta': 0, 'state': 'PICKUP', 'direction': 'UP', 'person': 1}
+1589286526.4649699 	 {'floor': 6, 'eta': 9, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286529.470146 	 {'floor': 7, 'eta': 6, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286532.474377 	 {'floor': 8, 'eta': 3, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286535.479583 	 {'floor': 9, 'eta': 0, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286538.4844558 	 {'floor': 9, 'eta': 0, 'state': 'DROPOFF', 'direction': 'UP', 'person': 0}
+1589286542.487252 	 {'floor': 9, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+127.0.0.1 - - [12/May/2020 17:59:23] "GET /smartkent/liftsimulation/?fromFloor=2&toFloor=7 HTTP/1.1" 200 -
+1589286563.695307 	 {'floor': 9, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+1589286563.695457 	 {'floor': 8, 'eta': 18, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286566.700049 	 {'floor': 7, 'eta': 15, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286569.701899 	 {'floor': 6, 'eta': 12, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286572.707105 	 {'floor': 5, 'eta': 9, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286575.708611 	 {'floor': 4, 'eta': 6, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286578.709252 	 {'floor': 3, 'eta': 3, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286581.714442 	 {'floor': 2, 'eta': 0, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286584.715313 	 {'floor': 2, 'eta': 0, 'state': 'PICKUP', 'direction': 'DOWN', 'person': 1}
+1589286588.718691 	 {'floor': 3, 'eta': 12, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286591.7197409 	 {'floor': 4, 'eta': 9, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286594.7226691 	 {'floor': 5, 'eta': 6, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286597.7275012 	 {'floor': 6, 'eta': 3, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286600.729432 	 {'floor': 7, 'eta': 0, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286603.732933 	 {'floor': 7, 'eta': 0, 'state': 'DROPOFF', 'direction': 'UP', 'person': 0}
+1589286607.738128 	 {'floor': 7, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+1589286631.031765 	 {'floor': 7, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+1589286631.031917 	 {'floor': 8, 'eta': 6, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+127.0.0.1 - - [12/May/2020 18:00:31] "GET /smartkent/liftsimulation/?fromFloor=10&toFloor=1 HTTP/1.1" 200 -
+1589286634.0351622 	 {'floor': 9, 'eta': 3, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286637.040334 	 {'floor': 10, 'eta': 0, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286640.045525 	 {'floor': 10, 'eta': 0, 'state': 'PICKUP', 'direction': 'UP', 'person': 1}
+1589286644.047242 	 {'floor': 9, 'eta': 24, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286647.05002 	 {'floor': 8, 'eta': 21, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286650.0503879 	 {'floor': 7, 'eta': 18, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286653.051348 	 {'floor': 6, 'eta': 15, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286656.055512 	 {'floor': 5, 'eta': 12, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286659.0607018 	 {'floor': 4, 'eta': 9, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286662.065941 	 {'floor': 3, 'eta': 6, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286665.071143 	 {'floor': 2, 'eta': 3, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286668.0763378 	 {'floor': 1, 'eta': 0, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286671.081526 	 {'floor': 1, 'eta': 0, 'state': 'DROPOFF', 'direction': 'DOWN', 'person': 0}
+1589286675.086505 	 {'floor': 1, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+1589286715.160217 	 {'floor': 1, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+1589286715.1603851 	 {'floor': 2, 'eta': 21, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+127.0.0.1 - - [12/May/2020 18:01:55] "GET /smartkent/liftsimulation/?fromFloor=9&toFloor=8 HTTP/1.1" 200 -
+1589286718.1619682 	 {'floor': 3, 'eta': 18, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286721.165055 	 {'floor': 4, 'eta': 15, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286724.167031 	 {'floor': 5, 'eta': 12, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286727.1684978 	 {'floor': 6, 'eta': 9, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286730.1734788 	 {'floor': 7, 'eta': 6, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286733.178633 	 {'floor': 8, 'eta': 3, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286736.179855 	 {'floor': 9, 'eta': 0, 'state': 'TO_PICKUP', 'direction': 'UP', 'person': 0}
+1589286739.185987 	 {'floor': 9, 'eta': 0, 'state': 'PICKUP', 'direction': 'UP', 'person': 1}
+1589286743.1910698 	 {'floor': 8, 'eta': 0, 'state': 'TO_DROPOFF', 'direction': 'DOWN', 'person': 1}
+1589286746.1968699 	 {'floor': 8, 'eta': 0, 'state': 'DROPOFF', 'direction': 'DOWN', 'person': 0}
+1589286750.202094 	 {'floor': 8, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+127.0.0.1 - - [12/May/2020 18:03:14] "GET /smartkent/liftsimulation/?fromFloor=4&toFloor=10 HTTP/1.1" 200 -
+1589286794.141453 	 {'floor': 8, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+1589286794.141658 	 {'floor': 7, 'eta': 9, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286797.146065 	 {'floor': 6, 'eta': 6, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286800.150023 	 {'floor': 5, 'eta': 3, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286803.1519191 	 {'floor': 4, 'eta': 0, 'state': 'TO_PICKUP', 'direction': 'DOWN', 'person': 0}
+1589286806.157088 	 {'floor': 4, 'eta': 0, 'state': 'PICKUP', 'direction': 'DOWN', 'person': 1}
+1589286810.1615832 	 {'floor': 5, 'eta': 15, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286813.1624901 	 {'floor': 6, 'eta': 12, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286816.16561 	 {'floor': 7, 'eta': 9, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286819.170799 	 {'floor': 8, 'eta': 6, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286822.172596 	 {'floor': 9, 'eta': 3, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286825.1760051 	 {'floor': 10, 'eta': 0, 'state': 'TO_DROPOFF', 'direction': 'UP', 'person': 1}
+1589286828.178137 	 {'floor': 10, 'eta': 0, 'state': 'DROPOFF', 'direction': 'UP', 'person': 0}
+1589286832.180233 	 {'floor': 10, 'eta': 0, 'state': 'IDLE', 'direction': 'NAN', 'person': 0}
+
+Process finished with exit code 0
